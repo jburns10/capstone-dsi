@@ -1,7 +1,7 @@
 
 # Project 3 - NLP and API
-#### By: Joshua Burns  
-<br/>
+#### By: Joshua Burns
+
 ### Problem Statement  
 
 Reddit is a news and social aggregating site where users can post content into categorical pages, called subreddits. Reddit has countless subreddits based on users interests and needs, many of which are very helpful to understand a variety of topics. Users are able to post, comment, and vote on the submissions gaining an aggregated score on that post.  
